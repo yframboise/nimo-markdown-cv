@@ -2,13 +2,10 @@
 layout: cv
 title: Wode "Nimo" Ni
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: mailto:sheng.yang@amadeus.com
+    text: sheng.yang@amadeus.com
 ---
-# Wode __Ni__
+# Sheng__YANG__
 
 <!--
 include contact information from the front matter
@@ -21,39 +18,17 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __Telecom Sudparis (Ex. INT, membre de l'Institut Mines-Télécom) __ `2012.9 - 2015.9`
 ```
-Pittsburgh, PA
-```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+Evry, FRANCE
+```	
+- M.S. in Information System
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Xidian University__ `2009.9 - 2013.9`
 ```
-New York, NY
+Xian, CHINA
 ```
 - B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
 
 ## Experience
 
@@ -80,14 +55,6 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Honors & Awards
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
 
 <!-- ### Footer
 
