@@ -1,4 +1,5 @@
 ---
+layout: cv
 email: 
     url: mailto:sheng.yang@amadeus.com
     text: sheng.yang@amadeus.com
