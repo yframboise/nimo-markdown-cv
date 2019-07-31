@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout:
 title:
 email: 
     url: mailto:sheng.yang@amadeus.com
