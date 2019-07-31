@@ -1,5 +1,6 @@
 ---
 layout: cv
+title: Sheng YANG's CV
 email: 
     url: mailto:sheng.yang@amadeus.com
     text: sheng.yang@amadeus.com
@@ -37,14 +38,12 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 - Contributing in Continous Integration / Continous deployment pipeline
 - Automating farm implementation workflow
 - Facilitating releasing workflow
-- PaaS administration 
-- 
+- PaaS administration
 
 ### __Amadeus S.A.S. TCH/FOR, Releasing and Implementation__ `2015.8 - 2018.4`
 _Releasing Tech lead_<br>
 Controlling release process and ensuring the quality of delivery
 - Evaluating technical risk and proposing mitigation action
-- 
 
 _Implementation Engineer_<br>
 - implementating technical stack 
