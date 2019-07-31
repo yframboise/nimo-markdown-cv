@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Sheng YANG's CV
+title:
 email: 
     url: mailto:sheng.yang@amadeus.com
     text: sheng.yang@amadeus.com
@@ -33,7 +33,7 @@ Xian, CHINA
 ## Experience
 
 ### __Amadeus S.A.S. TCH/FOR, SECO Praxis__  `2018.4 - `
-_Devops_<br>s
+_Devops_<br>
 __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..) 
 - Contributing in Continous Integration / Continous deployment pipeline
 - Automating farm implementation workflow
