@@ -1,6 +1,4 @@
 ---
-layout: cv
-title: Wode "Nimo" Ni
 email: 
     url: mailto:sheng.yang@amadeus.com
     text: sheng.yang@amadeus.com
@@ -22,21 +20,39 @@ Supported arguments:
 ```
 Evry, FRANCE
 ```	
-- M.S. in Information System
+- M.S. in Electronic and Information Engineering
 
 ### __Xidian University__ `2009.9 - 2013.9`
 ```
 Xian, CHINA
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
+- B.S. in Computer Science
 
 ## Experience
 
-### __Amadeus S.A.S. TCH/FOR, Praxis__  `2018.4 - `
-_Devops_<br>
-__Praxis__ is a project aiming 
+### __Amadeus S.A.S. TCH/FOR, SECO Praxis__  `2018.4 - `
+_Devops_<br>s
+__Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..) 
+- Contributing in Continous Integration / Continous deployment pipeline
+- Automating farm implementation workflow
+- Facilitating releasing workflow
+- PaaS administration 
+- 
 
-### __Amadeus S.A.S. TCH/FOR, sReleasing and Implementation__ `2015.8 - 2018.4`
+### __Amadeus S.A.S. TCH/FOR, Releasing and Implementation__ `2015.8 - 2018.4`
+_Releasing Tech lead_<br>
+Controlling release process and ensuring the quality of delivery
+- Evaluating technical risk and proposing mitigation action
+- 
+
+_Implementation Engineer_<br>
+- implementating technical stack 
+
+_Releasing coordinator_<br>
+
+Define release planning
+Develop and enhance internal tools 
+_Implementation Engineer_<br>
 _Tech lead_<br>
 
 
