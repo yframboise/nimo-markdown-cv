@@ -36,7 +36,7 @@ Xian, CHINA
 #### Devops<br>
 __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
 - _SECO cloud PaaS and lifecycle setup_<br>
-	Platform management (Platform as code, Infrastructure as code, Jenkins as Service)<br>
+	Platform management (Platform as code, Infrastructure as code, Implementation as code, Jenkins as Service)<br>
 	CI/CD pipeline<br>
 	Loging and monitoring<br>
 - _Leading legacy workflow migration with cloud and open source technology_<br>
