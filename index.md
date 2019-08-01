@@ -1,6 +1,6 @@
 ---
-layout:
-title:
+layout: cv
+title: Sheng YANG cv
 email: 
     url: mailto:sheng.yang@amadeus.com
     text: sheng.yang@amadeus.com
@@ -34,35 +34,36 @@ Xian, CHINA
 
 ### __Amadeus S.A.S. TCH/FOR, SECO Praxis__  `2018.4 - `
 _Devops_<br>
-__Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..) 
-- Contributing in Continous Integration / Continous deployment pipeline
-- Automating farm implementation workflow
-- Facilitating releasing workflow
+__Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
+- SECO cloud PaaS and lifecycle setup
+	Platform management (Platform as code, Infrastructure as code, Jenkins as Service)
+	CI/CD pipeline
+	Loging and monitoring
+- Leading legacy workflow migration with cloud and open source technology
+	Automating farm implementation workflow
+	Improving releasing workflow
+	Managing releasing cycle on cloud and encure delivery quality to customers
 - PaaS administration
 
 ### __Amadeus S.A.S. TCH/FOR, Releasing and Implementation__ `2015.8 - 2018.4`
 _Releasing Tech lead_<br>
 Controlling release process and ensuring the quality of delivery
 - Evaluating technical risk and proposing mitigation action
+- Enhancing process and improve internal tools 
 
 _Implementation Engineer_<br>
 - implementating technical stack 
 
 _Releasing coordinator_<br>
+- Define release planning
+- Develop and enhance internal tools 
 
-Define release planning
-Develop and enhance internal tools 
-_Implementation Engineer_<br>
-_Tech lead_<br>
 
 
 ### __Amadeus S.A.S. TCH/FOR, Software Development__ `2014.9 - 2015.2`
 _Intern_<br>
 Worked with frontend production support and releasing teams, designed and developed a web application monitoring and tracking dataloads (DB scripts deliveries) requested by clients to ensure delivery quality 
 
-
-
-## Teaching
 
 
 ## Honors & Awards
