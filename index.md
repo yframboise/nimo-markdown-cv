@@ -33,7 +33,7 @@ Xian, CHINA
 ## Experience
 
 ### __Amadeus S.A.S. TCH/FOR, SECO Praxis__  `2018.4 - `
-_Devops_<br>
+####_Devops_<br>
 __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
 - SECO cloud PaaS and lifecycle setup<br>
 	Platform management (Platform as code, Infrastructure as code, Jenkins as Service)<br>
@@ -46,27 +46,27 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 - PaaS administration<br>
 
 ### __Amadeus S.A.S. TCH/FOR, Releasing and Implementation__ `2015.8 - 2018.4`
-_Releasing Tech lead_<br>
+####_Releasing Tech lead_<br>
 Controlling release process and ensuring the quality of delivery
 - Evaluating technical risk and proposing mitigation action
 - Enhancing process, ensure delivery quality and improve internal tools 
 
-_Implementation Engineer_<br>
+####_Implementation Engineer_<br>
 - SECO legacy Technical stack implementation (DB, weblogic, apache, akamai..)<br>
 	Project management and coordination between stakeholders and MUC SRE
 
-_Releasing coordinator_<br>
+####_Releasing coordinator_<br>
 - Release coordination for e-commerce products across all platforms and environments 
 - Test platform / DB admin 
 
 
 ### __Amadeus S.A.S. TCH/FOR, Software Development__ `2014.9 - 2015.2`
-_Intern_<br>
+####_Intern_<br>
 Worked with frontend production support and releasing teams, designed and developed a web application monitoring and tracking dataloads (DB scripts deliveries) requested by clients to ensure delivery quality 
 
 
 
-## Honors & Awards
+## Technical skills
 
 
 <!-- ### Footer
