@@ -49,15 +49,15 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 _Releasing Tech lead_<br>
 Controlling release process and ensuring the quality of delivery
 - Evaluating technical risk and proposing mitigation action
-- Enhancing process and improve internal tools 
+- Enhancing process, ensure delivery quality and improve internal tools 
 
 _Implementation Engineer_<br>
-- implementating technical stack 
+- SECO legacy Technical stack implementation (DB, weblogic, apache, akamai..)
+	Project management and coordination between stakeholders and MUC SRE
 
 _Releasing coordinator_<br>
-- Define release planning
-- Develop and enhance internal tools 
-
+- Release coordination for e-commerce products across all platforms and environments 
+- Test platform / DB admin 
 
 
 ### __Amadeus S.A.S. TCH/FOR, Software Development__ `2014.9 - 2015.2`
