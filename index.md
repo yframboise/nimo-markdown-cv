@@ -67,9 +67,9 @@ Worked with frontend production support and releasing teams, designed and develo
 
 
 ## Technical skills
-_Project Management_
-_Groovy, java, python_
-_Kubernetes, Openshift, Jenkins, GAP..._
+_Project Management_<br>
+_Groovy, java, python_<br>
+_Kubernetes, Openshift, Jenkins, GAP..._<br>
 
 <!-- ### Footer
 
