@@ -33,7 +33,7 @@ Xian, CHINA
 ## Experience
 
 ### __Amadeus S.A.S. TCH/FOR, SECO Praxis__  `2018.4 - `
-####Devops<br>
+#### Devops<br>
 __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
 - _SECO cloud PaaS and lifecycle setup_<br>
 	Platform management (Platform as code, Infrastructure as code, Jenkins as Service)<br>
@@ -46,28 +46,30 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 - _PaaS administration_<br>
 
 ### __Amadeus S.A.S. TCH/FOR, Releasing and Implementation__ `2015.8 - 2018.4`
-####Releasing Tech lead<br>
+#### Releasing Tech lead<br>
 - _Controlling release process and ensuring the quality of delivery_<br>
 	Evaluating technical risk and proposing mitigation action<br>
 	Enhancing process, ensure delivery quality and improve internal tools<br>
 
-####Implementation Engineer<br>
+#### Implementation Engineer<br>
 - _SECO legacy Technical stack implementation (DB, weblogic, apache, akamai..)_<br>
 	Project management and coordination between stakeholders and MUC SRE
 
-####Releasing coordinator<br>
+#### Releasing coordinator<br>
 - _Release coordination for e-commerce products across all platforms and environments_
 - _Test platform / DB admin_
 
 
 ### __Amadeus S.A.S. TCH/FOR, Software Development__ `2014.9 - 2015.2`
-####Intern<br>
+#### Intern<br>
 Worked with frontend production support and releasing teams, designed and developed a web application monitoring and tracking dataloads (DB scripts deliveries) requested by clients to ensure delivery quality 
 
 
 
 ## Technical skills
-
+_Project Management_
+_Groovy, java, python_
+_Kubernetes, Openshift, Jenkins, GAP..._
 
 <!-- ### Footer
 
