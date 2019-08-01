@@ -22,13 +22,13 @@ Supported arguments:
 ```
 Evry, FRANCE
 ```	
-- M.S. in Electronic and Information Engineering
+- M.S. in Information System
 
 ### __Xidian University__ `2009.9 - 2013.9`
 ```
 Xian, CHINA
 ```
-- B.S. in Computer Science
+- B.S. in Electronic and Information Engineering
 
 ## Experience
 
