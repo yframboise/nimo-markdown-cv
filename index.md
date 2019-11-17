@@ -53,7 +53,8 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 
 #### Implementation Engineer<br>
 - _Amadeus E-commerce platform technical stack implementation (DB, weblogic, apache, akamai..)_<br>
-	Project management and coordination between stakeholders and MUC SRE
+	Managing implementation project in order to ensure stack delivery.
+	
 
 #### Releasing coordinator<br>
 - _Release coordination for e-commerce products across all platforms and environments_
