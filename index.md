@@ -52,7 +52,7 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 	Enhancing process, ensure delivery quality and improve internal tools<br>
 
 #### Implementation Engineer<br>
-- _SECO legacy Technical stack implementation (DB, weblogic, apache, akamai..)_<br>
+- _Amadeus E-commerce platform technical stack implementation (DB, weblogic, apache, akamai..)_<br>
 	Project management and coordination between stakeholders and MUC SRE
 
 #### Releasing coordinator<br>
@@ -69,7 +69,8 @@ Worked with frontend production support and releasing teams, designed and develo
 ## Technical skills
 _Project Management_<br>
 _Groovy, java, python_<br>
-_Kubernetes, Openshift, Jenkins, GAP..._<br>
+_Kubernetes, Openshift, Jenkins, grafana, prometheus, influxDB, fluentBit..._<br>
+_Sql, couchBase_<br>
 
 <!-- ### Footer
 
