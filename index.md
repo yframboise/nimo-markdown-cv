@@ -2,8 +2,8 @@
 layout: cv
 title: Sheng YANG cv
 email: 
-    url: mailto:sheng.yang@amadeus.com
-    text: sheng.yang@amadeus.com
+    url: mailto:yangsbravo@gmail.com
+    text: yangsbravo@gmail.com
 ---
 # Sheng __YANG__
 
