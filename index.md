@@ -55,16 +55,9 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 - _Amadeus E-commerce platform technical stack implementation (DB, weblogic, apache, akamai..)_<br>
 	Managing implementation project in order to ensure stack delivery.
 	
-
 #### Releasing coordinator<br>
 - _Release coordination for e-commerce products across all platforms and environments_
 - _Test platform / DB admin_
-
-
-### __Amadeus S.A.S. TCH/FOR, Software Development__ `2014.9 - 2015.2`
-#### Intern<br>
-Worked with frontend production support and releasing teams, designed and developed a web application monitoring and tracking dataloads (DB scripts deliveries) requested by clients to ensure delivery quality 
-
 
 
 ## Technical skills
@@ -73,7 +66,6 @@ _Kubernetes, helm, Jenkins, grafana, prometheus, influxDB, fluentBit..._<br>
 _Microsoft Azure, Redhat Openshift_<br>
 _Sql, couchBase_<br>
 _Project Management PMP® Certification_<br>
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
