@@ -66,6 +66,5 @@ _Kubernetes, helm, Jenkins, grafana, prometheus, influxDB, fluentBit..._<br>
 _Microsoft Azure, Redhat Openshift_<br>
 _Sql, couchBase_<br>
 _Project Management PMP® Certification_<br>
-<!-- ### Footer
 
-Last updated: May 2021 -->
+<!-- ### Footer Last updated: May 2021 -->
