@@ -69,7 +69,8 @@ Worked with frontend production support and releasing teams, designed and develo
 
 ## Technical skills
 _Groovy, java, python_<br>
-_Kubernetes, Openshift, Jenkins, grafana, prometheus, influxDB, fluentBit..._<br>
+_Kubernetes, helm, Jenkins, grafana, prometheus, influxDB, fluentBit..._<br>
+_Microsoft Azure, Redhat Openshift_<br>
 _Sql, couchBase_<br>
 _Project Management PMP® Certification_<br>
 
