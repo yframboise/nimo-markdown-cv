@@ -33,16 +33,15 @@ Xian, CHINA
 ## Experience
 
 ### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
-#### Devops / Releasing tech lead<br>
+#### Devops & Releasing tech lead<br>
 E-commerce technical stack migration from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
 - _PaaS and lifecycle setup_<br>
 	Platform management (Platform as code, Infrastructure as code, Implementation as code, Jenkins as Service)<br>
 	CI/CD pipeline (Release as code)<br>
 	Loging and monitoring<br>
 - _Leading legacy workflow migration with cloud and open source technology_<br>
-	Automating farm implementation workflow<br>
-	Improving releasing workflow<br>
-	Managing releasing cycle on cloud and encure delivery quality to customers<br>
+	Automating farm implementation & releasing workflow<br>
+	Managing releasing cycle on cloud and ensure delivery quality to customers<br>
 - _PaaS administration_<br>
 
 ### __Amadeus S.A.S. Releasing and Implementation__ `2015.8 - 2018.4`
@@ -57,7 +56,7 @@ E-commerce technical stack migration from legacy (weblogic + apache VMs) to ACS 
 	
 #### Releasing coordinator<br>
 - _Release coordination for e-commerce products across all platforms and environments_
-- _Test platform / DB admin / Tooling maintenance_
+- _Test platform & DB admin & Tooling maintenance_
 
 
 ## Technical skills
