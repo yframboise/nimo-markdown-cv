@@ -32,12 +32,12 @@ Xian, CHINA
 
 ## Experience
 
-### __Amadeus S.A.S. SECO Praxis__  `2018.4 - `
+### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
 #### Devops<br>
-__Praxis__ is a project aiming to migrate e-commerce technical stack from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
-- _SECO cloud PaaS and lifecycle setup_<br>
+E-commerce technical stack migration from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
+- _PaaS and lifecycle setup_<br>
 	Platform management (Platform as code, Infrastructure as code, Implementation as code, Jenkins as Service)<br>
-	CI/CD pipeline<br>
+	CI/CD pipeline (Release as code)<br>
 	Loging and monitoring<br>
 - _Leading legacy workflow migration with cloud and open source technology_<br>
 	Automating farm implementation workflow<br>
@@ -57,12 +57,12 @@ __Praxis__ is a project aiming to migrate e-commerce technical stack from legacy
 	
 #### Releasing coordinator<br>
 - _Release coordination for e-commerce products across all platforms and environments_
-- _Test platform / DB admin_
+- _Test platform / DB admin / Tooling maintenance_
 
 
 ## Technical skills
 _Groovy, java, python_<br>
-_Kubernetes, helm, Jenkins, grafana, prometheus, influxDB, fluentBit..._<br>
+_Kubernetes, Helm, Jenkins, Grafana, Prometheus, InfluxDB, FluentBit, splunk..._<br>
 _Microsoft Azure, Redhat Openshift_<br>
 _Sql, couchBase_<br>
 _Project Management PMP® Certification_<br>
