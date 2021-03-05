@@ -33,7 +33,7 @@ Xian, CHINA
 ## Experience
 
 ### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
-#### Devops<br>
+#### Devops / Releasing tech lead<br>
 E-commerce technical stack migration from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
 - _PaaS and lifecycle setup_<br>
 	Platform management (Platform as code, Infrastructure as code, Implementation as code, Jenkins as Service)<br>
