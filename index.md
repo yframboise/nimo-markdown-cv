@@ -20,9 +20,9 @@ Supported arguments:
 
 ### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
 #### Devops & Releasing tech lead<br>
-B2B E-commerce platform (2M users) technical stack cloud migration (Openshift, k8s, docker, CI/CD..)
+B2B E-commerce platform (2 million users) private cloud migration (Openshift, k8s, docker, CI/CD..)
 - _PaaS and lifecycle setup_<br>
-	Software architecture studies (Containerization & microservices)
+	Software architecture studies (Containerization & microservices)<br>
 	Platform management (Platform as code, Infrastructure as code, DB as service)<br>
 	Monitoring & alerting automation (monitoring as code)<br>
 - _Project lead: Operational workflow migration to cloud_<br>
@@ -58,6 +58,6 @@ Xian, CHINA
 _Groovy, java, python_<br>
 _Cloud & CI/CD: Openshift, Azure, K8s, Helm, Terraform, Jenkins, Grafana, Prometheus, splunk..._<br>
 _Project Management PMP® Certification_<br>
-_Microsoft Certification: Azure Solutions Architect Expert, Azure Administrator Associate_<br>
+_Cloud Certification: Azure Solutions Architect Expert, Azure Administrator Associate_<br>
 
 <!-- ### Footer Last updated: May 2021 -->
