@@ -20,7 +20,7 @@ Supported arguments:
 
 ### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
 #### Devops & Releasing tech lead<br>
-B2B E-commerce platform (2 million users) private cloud migration (Openshift, k8s, docker, CI/CD..)
+Travel E-commerce platform - Sell Connect (2 million users) private cloud migration (Openshift, k8s, docker, CI/CD..)
 - _PaaS and lifecycle setup_<br>
 	Software architecture studies (Containerization & microservices)<br>
 	Platform management (Platform as code, Infrastructure as code, DB as service)<br>
