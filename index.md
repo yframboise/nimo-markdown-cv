@@ -16,9 +16,33 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
+## Experience
+
+### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
+#### Devops & Releasing tech lead<br>
+B2B E-commerce platform (2M users) technical stack cloud migration (Openshift, k8s, docker, CI/CD..)
+- _PaaS and lifecycle setup_<br>
+	Software architecture studies (Containerization & microservices)
+	Platform management (Platform as code, Infrastructure as code, DB as service)<br>
+	Monitoring & alerting automation (monitoring as code)<br>
+- _Project lead: Operational workflow migration to cloud_<br>
+	Managing & industry standard release process (acceleration, automation, standardization - Release as code)<br>
+	Direct support engineer team to DevOps approach<br>
+
+### __Amadeus S.A.S. Support Engineer__ `2015.8 - 2018.4`
+#### Releasing Tech lead<br>
+- _Controlling release process and ensuring the quality of delivery_<br>
+	Evaluating technical risk and proposing mitigation action<br>
+	Enhancing process, ensure delivery quality and automate internal releasing tools<br>
+
+#### Support Engineer<br>
+- _Amadeus E-commerce platform technical stack implementation (DB, weblogic, apache, akamai..)_<br>
+	Managing implementation project in order to ensure stack delivery.
+- _Release coordination for e-commerce products across all platforms and environments_
+	
 ## Education
 
-### __Telecom Sudparis (Ex. INT, membre de l'Institut Mines-Télécom)__ `2012.9 - 2015.9`
+### __Telecom Sudparis (Institut Polytechnique de Paris)__ `2012.9 - 2015.9`
 ```
 Evry, FRANCE
 ```	
@@ -30,40 +54,10 @@ Xian, CHINA
 ```
 - B.S. in Electronic and Information Engineering
 
-## Experience
-
-### __Amadeus S.A.S. Private cloud migraiton__  `2018.4 - `
-#### Devops & Releasing tech lead<br>
-E-commerce technical stack migration from legacy (weblogic + apache VMs) to ACS (Openshift, docker, kubernetes, JBoss, Jenkins, CI/CD, microservices..)
-- _PaaS and lifecycle setup_<br>
-	Platform management (Platform as code, Infrastructure as code, Implementation as code, Jenkins as Service)<br>
-	CI/CD pipeline (Release as code)<br>
-	Loging and monitoring<br>
-- _Leading legacy workflow migration with cloud and open source technology_<br>
-	Automating farm implementation & releasing workflow<br>
-	Managing releasing cycle on cloud and ensure delivery quality to customers<br>
-- _PaaS administration_<br>
-
-### __Amadeus S.A.S. Releasing and Implementation__ `2015.8 - 2018.4`
-#### Releasing Tech lead<br>
-- _Controlling release process and ensuring the quality of delivery_<br>
-	Evaluating technical risk and proposing mitigation action<br>
-	Enhancing process, ensure delivery quality and improve internal tools<br>
-
-#### Implementation Engineer<br>
-- _Amadeus E-commerce platform technical stack implementation (DB, weblogic, apache, akamai..)_<br>
-	Managing implementation project in order to ensure stack delivery.
-	
-#### Releasing coordinator<br>
-- _Release coordination for e-commerce products across all platforms and environments_
-- _Test platform & DB admin & Tooling maintenance_
-
-
 ## Technical skills
 _Groovy, java, python_<br>
-_Kubernetes, Helm, Jenkins, Grafana, Prometheus, InfluxDB, FluentBit, splunk..._<br>
-_Microsoft Azure, Redhat Openshift_<br>
-_Sql, couchBase_<br>
+_Cloud & CI/CD: Openshift, Azure, K8s, Helm, Terraform, Jenkins, Grafana, Prometheus, splunk..._<br>
 _Project Management PMP® Certification_<br>
+_Microsoft Certification: Azure Solutions Architect Expert, Azure Administrator Associate_<br>
 
 <!-- ### Footer Last updated: May 2021 -->
